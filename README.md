@@ -1,5 +1,5 @@
 # hello-world
 
-Testing new repo...
+Testing new repo... Tested!
 
 Hello world!
