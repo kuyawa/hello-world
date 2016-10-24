@@ -1,16 +1,17 @@
 # TODO
+
+Branching
+https://guides.github.com/activities/hello-world/
+
 ```
 
 - Learn about branching
-  https://guides.github.com/activities/hello-world/
-
-- Item 1
-- Item 2
+- Upload first repo
+- Make iPhone app
 - Item 3
-x Item 4
-x Item 5
+x Markdown
+x Hello world
 
 
 ```
-
 End
